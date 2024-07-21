@@ -1,0 +1,9 @@
+.filter-section{
+    background-color: #ffffff;
+    padding: 54px 35px;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    gap: 45px;
+    box-shadow: 0 15px 8px 0 rgb(169, 166, 166);
+}

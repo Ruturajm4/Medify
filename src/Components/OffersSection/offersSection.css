@@ -1,0 +1,11 @@
+.offers-section{
+    background-color: #ffffff;
+    margin-top: 36px;   
+    padding: 68px 15px 68px 15px;
+}
+.element-img{
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    gap: 25px;
+}
